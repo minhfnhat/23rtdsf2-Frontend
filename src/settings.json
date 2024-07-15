@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success.",
+        "title": "Revolutionize Your Work Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Work Experience",
+  "subtitle": "Harness innovative solutions that streamline processes and amplify productivity. Elevate your business to new heights with our state-of-the-art tools designed for success."
+}
